@@ -18,7 +18,7 @@
 
 ## Deploy
 
-- Use o [http://deploybot.com/](http://deploybot.com/) para configurar e realizar deploys.
+- Use o [deploybot.com](http://deploybot.com/) para configurar e realizar deploys.
 
 - Não utilize um cliente FTP para realizar deploys.
     - É perigoso e não-produtivo arrastar arquivos através de um cliente FTP. Uma ferramenta automatizada de deploy traz segurança e produtividade.
