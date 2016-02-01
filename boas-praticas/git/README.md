@@ -4,7 +4,7 @@
 ## Sumário
 - [Mantendo um repositório](#mantendo-um-reposit%C3%B3rio)
 - [Commits](#commits)
-- [Fluxo](#fluxo)
+- [Fluxo](#fluxo-de-trabalho)
 - [Dicas de leitura](#dicas-de-leitura)
 - [Referências](#refer%C3%AAncias)
 
